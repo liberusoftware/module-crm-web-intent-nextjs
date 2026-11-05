@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-web-intent-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-web-intent",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-web-intent-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/web-intent.md",
+  "presentationPlan": "projects/crm/nextjs/web-intent.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
